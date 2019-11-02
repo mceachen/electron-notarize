@@ -1,6 +1,6 @@
 {
   "name": "@mceachen/electron-notarize",
-  "version": "0.1.1-20191102",
+  "version": "0.1.1-20191103",
   "description": "Notarize your Electron app",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
